@@ -12,3 +12,8 @@ By default, Replit runs the dev script, but you can configure it by changing the
 
 ### Typescript
 Just rename any file from .jsx to .tsx. You can also try our <a href="https://replit.com/@replit/React-TypeScript">TypeScript Template</a>
+
+<table align="right">
+ <tr><td><a href="https://github.com/qm-alt/React-Javascript/blob/main/README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/qm-alt/React-Javascript/blob/main/README-pt-br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" alt="Indonesia flag" width="17px"> Indonesia</a></td></tr>
+</table>
